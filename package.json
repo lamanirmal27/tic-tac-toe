@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "react-scripts": "^5.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "main": "/index.js",
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "react-scripts": "^5.0.1"
+  }
 }
